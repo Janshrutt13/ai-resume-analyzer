@@ -4,7 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7af92d1b-c048-4516-a61e-f287aa007f72" name="Changes" comment="" />
+    <list default="true" id="7af92d1b-c048-4516-a61e-f287aa007f72" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/components/Navbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/ResumeCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/ScoreCircle.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/home.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/logo-dark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/logo-light.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/welcome.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/.idea/assets.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/ats-bad.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/ats-good.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/ats-warning.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/back.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/check.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/cross.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/info.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/pin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/warning.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bg-auth.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bg-main.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bg-small.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pdf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/resume-scan-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/resume-scan.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/resume_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/resume_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/resume_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pdf.worker.min.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,34 +48,45 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="306QJNyKXXsC6arNdqM3JAcF1DD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/lenovo/WebstormProjects/ai-resume-analyzer/src/main.js",
-    "settings.editor.selected.configurable": "preferences.customizations",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/lenovo/WebstormProjects/ai-resume-analyzer/src/main.js&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\lenovo\\WebstormProjects\\ai-resume-analyzer\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\lenovo\\WebstormProjects\\ai-resume-analyzer\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\WebstormProjects\ai-resume-analyzer\public" />
+      <recent name="C:\Users\lenovo\WebstormProjects\public" />
       <recent name="C:\Users\lenovo\WebstormProjects\ai-resume-analyzer" />
     </key>
   </component>
@@ -58,7 +104,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1752945470453</updated>
-      <workItem from="1752945471336" duration="1910000" />
+      <workItem from="1752945471336" duration="2679000" />
+      <workItem from="1752948196938" duration="1749000" />
+      <workItem from="1753111069014" duration="2415000" />
+      <workItem from="1753191370765" duration="960000" />
     </task>
     <servers />
   </component>
